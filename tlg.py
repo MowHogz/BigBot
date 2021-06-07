@@ -3,3 +3,8 @@
 #uses Bot to get incoming messages, uses user_manager to send each message to the requested user 
 
 
+from telegram import Bot 
+
+import users import user_manager
+
+from setup import setter
