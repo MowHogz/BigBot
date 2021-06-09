@@ -3,6 +3,7 @@ class user:
         
         pass
     def send(self):
+        pass
         
 
 
@@ -10,4 +11,4 @@ class user:
 
 
 
-ruby = user("chatid")
+#ruby = user("chatid")
